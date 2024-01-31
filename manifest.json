@@ -7,7 +7,7 @@
         "storage"
     ],
     "action" : {
-        "default_popup": "seblak.html"
+        "default_popup": "pop.html"
     },
     "background" : {
         "service_worker": "bg.js"
