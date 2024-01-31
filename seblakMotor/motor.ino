@@ -5,7 +5,7 @@
 #define RPWM 14
 #define LPWM 12
 
-const char* ssid = "wifi_name";
+const char* ssid = "wifi_name"; //change it to your wifi
 const char* password = "wifi_password";
 
 ESP8266WebServer server(80);
