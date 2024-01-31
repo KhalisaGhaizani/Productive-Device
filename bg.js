@@ -1,6 +1,6 @@
 let okay_websites = []
-let turnOn = 'http://192.168.1.14/on'
-let turnOff = 'http://192.168.1.14/off'
+let turnOn = 'http://esp8266_ip/on' //change it to the device's ip
+let turnOff = 'http://esp8266_ip/off'
 
 
 chrome.tabs.onActivated.addListener((activeInfo) =>
