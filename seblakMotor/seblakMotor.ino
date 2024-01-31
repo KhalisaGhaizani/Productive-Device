@@ -5,8 +5,8 @@
 #define RPWM 14
 #define LPWM 12
 
-const char* ssid = "andri";
-const char* password = "b1548wjf";
+const char* ssid = "wifi_name";
+const char* password = "wifi_password";
 
 ESP8266WebServer server(80);
 
